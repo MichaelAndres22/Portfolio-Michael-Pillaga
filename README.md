@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Titulo del proyecto
 Portfolio Michael Pillaga
 The purpose of the website is to present the skills of the created, using technologies such as React, JavaScript and Css.
